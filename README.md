@@ -1,4 +1,4 @@
-# 🚀 **Hi there, I'm Swagata!** 👋  
+## 🚀 **Hi there, I'm Swagata!** 👋  
 Full Stack Developer  
 
 
@@ -50,7 +50,7 @@ Full Stack Developer
 
 ### **Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c, php" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c,php" />
 </p>
 
 ### **Tools & Platforms**
@@ -118,12 +118,9 @@ Full Stack Developer
 ### 🎯 **LeetCode Badges & Achievements**
 <div align="center">
   
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Swagata_685
-/)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-Check%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Swagata_685
-/)
-[![Contest Rating](https://img.shields.io/badge/Contest%20Rating-View%20Stats-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Swagata_685
-/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Swagata_685/)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-Check%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Swagata_685/)
+[![Contest Rating](https://img.shields.io/badge/Contest%20Rating-View%20Stats-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Swagata_685/)
 
 </div>
 
@@ -131,10 +128,8 @@ Full Stack Developer
 <div align="center">
   
 <!-- LeetCode Stats Card -->
-<a href="https://leetcode.com/u/Swagata_685
-/">
-  <img src="https://leetcard.jacoblin.cool/Swagata_685
-?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+<a href="https://leetcode.com/u/Swagata_685/">
+  <img src="https://leetcard.jacoblin.cool/Swagata_685?theme=dark&font=Karma&ext=contest"alt="LeetCodeStats" />
 </a>
 
 </div>
@@ -193,7 +188,7 @@ Let's build something awesome together. Happy coding! 🎉
 
 ### 📈 **Profile Views**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swagata-ghosh&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=swagata-ghosh&label=Profile%20Views&color=blueviolet&style=flat-square"alt="ProfileViews">
 </p>
 
 ---
@@ -210,5 +205,5 @@ Let's build something awesome together. Happy coding! 🎉
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=fadeIn"/>
 </div>
