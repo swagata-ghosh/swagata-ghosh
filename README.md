@@ -76,12 +76,7 @@ Full Stack Developer
 </p>
 
 ---
-##  GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=swagata-ghosh&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
-</p>
 
----
 
 ## 📈 **Contribution Graph**
 <p align="center">
