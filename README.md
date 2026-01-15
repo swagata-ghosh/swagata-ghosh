@@ -60,20 +60,39 @@ Full Stack Developer
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
+
 <div align="center">
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swagata-ghosh&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=swagata-ghosh&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swagata-ghosh&theme=tokyonight" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=swagata-ghosh&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Swagata Ghosh GitHub Stats"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com?user=swagata-ghosh&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+
+  <img
+    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swagata-ghosh&theme=tokyonight"
+    alt="GitHub Profile Summary"
+  />
 </div>
 
 ---
 
-## 🔥 **Top Languages**
+## 🔥 Top Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagata-ghosh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagata-ghosh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+    alt="Top Languages"
+  />
 </p>
+
 
 ---
 
@@ -108,7 +127,6 @@ Full Stack Developer
 
 
 
-## 📊 **LeetCode Journey**
 
 ### 🎯 **LeetCode Badges & Achievements**
 <div align="center">
@@ -152,7 +170,7 @@ Full Stack Developer
 
 ### 📬 **Get in Touch:**
 📧 **Email**:swagataghosh685@gmail.com  
-💼 **LinkedIn**: [Connect with me]({https://www.linkedin.com/in/swagata-ghosh-97330527a?)  
+💼 **LinkedIn**: [Connect with me]({https://www.linkedin.com/in/swagata-ghosh-97330527a)  
 🐙 **GitHub**: [Follow my journey](https://github.com/swagata-ghosh)  
 ⚡ **LeetCode**: [See my progress](https://leetcode.com/u/Swagata_685/)  
 
