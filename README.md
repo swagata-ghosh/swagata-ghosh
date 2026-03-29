@@ -60,13 +60,6 @@ Full Stack Developer
 
 ---
 
-## 📈 **Contribution Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swagata-ghosh&theme=dracula&hide_border=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF">
-</p>
-
----
-
 ## 🎯 **What I'm Currently Learning**  
 ✅ **Advanced AI/ML**: Deep Learning, Neural Networks, and Natural Language Processing  
 ✅ **Cloud Architecture**: AWS, GCP 
